@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "alikhoja",
+        "email": "alikhoja1555@gmail.com",
+        "password": "q1w2e3r4"
+    },
+    {
+        "id": 2,
+        "name": "asalkhoja",
+        "email": "asalxoja1555@gmail.com",
+        "password": "q1w2e3r5"
+    },
+    {
+        "id": 3,
+        "name": "alikhoja",
+        "email": "alikhoja1555@gmail.com",
+        "password": "q1w2e3r4"
+    }
+]
